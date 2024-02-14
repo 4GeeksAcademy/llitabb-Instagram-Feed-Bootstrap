@@ -1,0 +1,11 @@
+.img-fluid{
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    width: auto;
+}
+.no-border{
+    border:none;
+}
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
